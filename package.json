@@ -1,7 +1,7 @@
 {
-  "name": "mern-blood-bank-app",
+  "name": "blood-hope-website",
   "version": "1.0.0",
-  "description": "mern blood bank app",
+  "description": "Blood Donation Website based on MERN Stack",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
